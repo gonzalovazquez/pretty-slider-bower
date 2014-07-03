@@ -15,12 +15,12 @@ bower install prettySlider
 Add a `<script>` to your `index.html`:
 
 ```html
-<script src="/bower_components/prettyslider.js"></script>
+<script src="/bower_components/pretty-slider/prettyslider.js"></script>
 ```
 
 Anywhere before you `<head>`
 ```html
-<link rel="stylesheet" href="/bower_components/prettyslider.css">
+<link rel="stylesheet" href="/bower_components/pretty-slider/prettyslider.css">
 ```
 
 ## Documentation
